@@ -18,6 +18,7 @@ let newButton = document.querySelector('.btn-div')
 
 button.addEventListener('click', () => {
   image.setAttribute('src', 'images/wp3850825-4k-pc-wallpapers.jpg')
+  button.style.transition = 'all 1s ease'
   button.style.background = 'red';
   button1.style.background = 'none'; button2.style.background = 'none'; button3.style.background = 'none';
   button4.style.background = 'none'; button5.style.background = 'none'; button6.style.background = 'none';
@@ -26,6 +27,7 @@ button.addEventListener('click', () => {
 })
 button1.addEventListener('click', () => {
   image.setAttribute('src', 'images/Microsoft windows 3d wallpaper - PixelsTalk_Net.jpg')
+  button1.style.transition = 'all 1s ease'
   button.style.background = 'none'; button2.style.background = 'none'; button3.style.background = 'none';
   button4.style.background = 'none'; button5.style.background = 'none'; button6.style.background = 'none';
   button7.style.background = 'none'; button8.style.background = 'none'; button9.style.background = 'none';
@@ -34,6 +36,7 @@ button1.addEventListener('click', () => {
 })
 button2.addEventListener('click', () => {
   image.setAttribute('src', 'images/Pin by SiWahyu🗿 on Minion _ Minions wallpaper, Cute minions wallpaper, Cute minions.jpg')
+  button2.style.transition = 'all 1s ease'
   button.style.background = 'none';  button3.style.background = 'none'; button1.style.background = 'none';
   button4.style.background = 'none'; button5.style.background = 'none'; button6.style.background = 'none';
   button7.style.background = 'none'; button8.style.background = 'none'; button9.style.background = 'none';
@@ -42,6 +45,7 @@ button2.addEventListener('click', () => {
 })
 button3.addEventListener('click', () => {
   image.setAttribute('src', 'images/HD wallpaper_ Windows 10, windows 10x, windows 11, minimalism, material minimal.jpg')
+  button3.style.transition = 'all 1s ease'
   button.style.background = 'none'; button2.style.background = 'none'; button1.style.background = 'none';
   button4.style.background = 'none'; button5.style.background = 'none'; button6.style.background = 'none';
   button7.style.background = 'none'; button8.style.background = 'none'; button9.style.background = 'none';
@@ -49,6 +53,7 @@ button3.addEventListener('click', () => {
 })
 button4.addEventListener('click', () => {
   image.setAttribute('src', 'images/download (7).jpg')
+  button4.style.transition = 'all 1s ease'
   button.style.background = 'none'; button2.style.background = 'none'; button3.style.background = 'none';
    button5.style.background = 'none'; button6.style.background = 'none'; button1.style.background = 'none';
   button7.style.background = 'none'; button8.style.background = 'none'; button9.style.background = 'none';
@@ -56,6 +61,7 @@ button4.addEventListener('click', () => {
 })
 button5.addEventListener('click', () => {
   image.setAttribute('src', 'images/1117426.jpg')
+  button5.style.transition = 'all 1s ease'
   button.style.background = 'none'; button2.style.background = 'none'; button3.style.background = 'none';
   button4.style.background = 'none'; button6.style.background = 'none'; button1.style.background = 'none';
   button7.style.background = 'none'; button8.style.background = 'none'; button9.style.background = 'none';
@@ -63,6 +69,7 @@ button5.addEventListener('click', () => {
 })
 button6.addEventListener('click', () => {
   image.setAttribute('src', 'images/Windows 11 Wallpapers HD 4K Free Download - PixelsTalk_Net.jpg')
+  button6.style.transition = 'all 1s ease'
   button.style.background = 'none'; button2.style.background = 'none'; button3.style.background = 'none';
   button4.style.background = 'none'; button5.style.background = 'none'; button1.style.background = 'none';
   button7.style.background = 'none'; button8.style.background = 'none'; button9.style.background = 'none';
@@ -70,6 +77,7 @@ button6.addEventListener('click', () => {
 })
 button7.addEventListener('click', () => {
   image.setAttribute('src', 'images/Ultra Hd 4k Wallpaper For Pc - 3840x2160 Wallpaper - teahub_io.jpg')
+  button7.style.transition = 'all 1s ease'
   button.style.background = 'none'; button2.style.background = 'none'; button3.style.background = 'none';
   button4.style.background = 'none'; button5.style.background = 'none'; button6.style.background = 'none';
    button8.style.background = 'none'; button9.style.background = 'none'; button1.style.background = 'none';
@@ -77,6 +85,7 @@ button7.addEventListener('click', () => {
 })
 button8.addEventListener('click', () => {
   image.setAttribute('src', 'images/Windows 11.png')
+  button8.style.transition = 'all 1s ease'
   button.style.background = 'none'; button2.style.background = 'none'; button3.style.background = 'none';
   button4.style.background = 'none'; button5.style.background = 'none'; button6.style.background = 'none';
   button7.style.background = 'none';  button9.style.background = 'none'; button1.style.background = 'none';
@@ -84,6 +93,7 @@ button8.addEventListener('click', () => {
 })
 button9.addEventListener('click', () => {
   image.setAttribute('src', 'images/Rick and Morty Windows.jpg')
+  button9.style.transition = 'all 1s ease'
   button.style.background = 'none'; button2.style.background = 'none'; button3.style.background = 'none';
   button4.style.background = 'none'; button5.style.background = 'none'; button6.style.background = 'none';
   button7.style.background = 'none'; button8.style.background = 'none'; button1.style.background = 'none';
@@ -91,6 +101,7 @@ button9.addEventListener('click', () => {
 })
 button10.addEventListener('click', () => {
   image.setAttribute('src', 'images/Windows 11 Wallpapers HD 4K Free Download.jpg')
+  button10.style.transition = 'all 1s ease'
   button.style.background = 'none'; button2.style.background = 'none'; button3.style.background = 'none';
   button4.style.background = 'none'; button5.style.background = 'none'; button6.style.background = 'none';
   button7.style.background = 'none'; button8.style.background = 'none'; button9.style.background = 'none';
@@ -98,6 +109,7 @@ button10.addEventListener('click', () => {
 })
 button11.addEventListener('click', () => {
   image.setAttribute('src', 'images/Fruit Wallpaper_ GLASS FRUIM.jpg')
+  button11.style.transition = 'all 1s ease'
   button.style.background = 'none'; button2.style.background = 'none'; button3.style.background = 'none';
   button4.style.background = 'none'; button5.style.background = 'none'; button6.style.background = 'none';
   button7.style.background = 'none'; button8.style.background = 'none'; button9.style.background = 'none';
